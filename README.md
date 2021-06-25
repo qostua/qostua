@@ -44,5 +44,5 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 
 MNTN — одностроничный лендинг о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
-MNTN — одностроничный лендинг компании бизнес-помощнике. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
+MNTN — одностроничный лендинг компании бизнес-помощника. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
 
