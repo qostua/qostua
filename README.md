@@ -42,7 +42,7 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 
 Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
 
-MNTN — одностроничный лендинг о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
+MNTN — блог о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
-MNTN — одностроничный лендинг компании бизнес-помощника. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
+MNTN — компания бизнес-помощник. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
 
