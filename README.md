@@ -44,5 +44,5 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 
 MNTN — блог о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
-MNTN — компания бизнес-помощник. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
+amid. — компания бизнес-помощник. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
 
