@@ -6,7 +6,7 @@
 
 **`HTML5`**, `ARIA`, `Retina`, `webp`
 
-**`CSS3`**, `Flex`, `Grid`, `Adaptive`, `BEM`[*](https://github.com/qostua##/ "Как методология именования"), `Sass`, `Less`
+**`CSS3`**, `Flex`, `Grid`, `Adaptive`, `BEM`, `Sass`, `Less`
 
 **`SVG`**, `SVG animation`
 
