@@ -1,42 +1,86 @@
-Привет, я фронтендер-джун. Верстаю сайты, грызу [JS](https://learn.javascript.ru/)
+# Untitled
 
-## Мои актуальные навыки
+Привет, я фронтендер-джун. Верстаю сайты, могу в JS и немного в PHP.
 
-### HTML
+## Стек технологий
 
-Семантичность[*](https://github.com/qostua##/ "Отличаю section от article, а также кнопку от ссылки"), доступность[*](https://github.com/qostua##/ "Следаю заветам Вадима Макеева: использую aria-label и не только"), ретиновая и адаптивная графика[*](https://github.com/qostua##/ "А также WebP с дегродацией")
+**`HTML5`**, `ARIA`, `Retina`, `webp`
 
-### CSS
+**`CSS3`**, `Flex`, `Grid`, `Adaptive`, `BEM`[*](https://github.com/qostua##/ "Как методология именования"), `Sass`, `Less`
 
-Кроссбраузерность[*](https://github.com/qostua##/ "Да-да, я умею подключать normalize или reset"), флексы, гриды, БЭМ, адаптивная и резиновая вёрстка, анимации
+**`SVG`**, `SVG animation`
 
-**Препроцессоры**
+`**JavaScript**`, `ES5`**,** `DOM`, `Gulp`
 
-Sass[*](https://github.com/qostua##/ "Использую его, хотя душа лежит к Less"), Less
+**other**: `Git`, `Accessibility`
 
-### JS
+**programs**: `Figma`, `Photoshop`, `Illustrator`
 
-Основы синтаксиса и основы браузерного JS
+**frameworks**: `Bootstrap`
 
-**Автоматизация**
+<a href="#stek">Подробнее</a> про стек технологий
 
-Сборка проекта на Gulp[*](https://github.com/qostua##/ "Могу написать gulpfile с нуля")
+## Лучшие работы
 
-### **SVG**
+Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
 
-Оптимизация, анимирование, интерактивность
+Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
 
-## Пройденные курсы
+MNTN — одностроничный лендинг о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
-HTML Academy: 
+Портфолио <a href="#portfolio">целиком</a>
 
-[Интерактивные тренажеры](https://htmlacademy.ru/courses)
+## <a name="stek">Подробнее про стек технологий</a>
 
-[HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/qostua/device)
+**HTML5** — семантичная и доступная разметка, адаптивная* графика
 
-[HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/qostua/cat-energy)
+**ARIA** — когда не хватает семантики или она лишняя (подробнее в [Accessibility](https://www.notion.so/readme-githab-1-658674a015fb474ebe9258d9059c283e))
 
-## Свёрстанные сайты
+**Retina, webp** — графика ретиновая и в webp (в CSS тоже) с оптимизированной загрузкой
+
+**HTML Emails, CSS Emails** — верстаю также и Email-рассылки
+
+**CSS3** — **** адаптивная, резиновая, кроссбраузерная*, производительная* верстка с использованием последних поддерживаемых свойств* (кастомные свойства, support). Могу в CSS-анимации
+
+**Flex**, **Grid** — адаптивные и резиновые раскладки
+
+**BEM** — как методология по именованию, а не полный стек
+
+**Sass**, **Less**, **PostCSS** — в основном использую Sass, с остальными есть опыт
+
+**SVG, SVG animation** — подключение, создание спрайтов, оптимизация, анимирование, создание инлайново и в *Adobe Illustrator*
+
+**JavaScript, ES5** — модульный, производительный, понятный и поддерживаемый код (мой чек-лист при написании). Работаю с внешними API и сторонними библиотеками
+
+**DOM** — знаю DOM API и прочий браузерный JS
+
+**Gulp** — запуск и настройка сборки
+
+**PHP** — базовые знания
+
+**Wordpress** — могу натянуть верстку и сделать админку
+
+**Git** — глубокие знания, а не только базовые операции
+
+**Accessibility** — семантика, ARIA, а также прочие важные для доступности вещи (мой чек-лист доступности)
+
+**Figma**, **Photoshop** — экспорт графики и параметров. В основном использую Figma.
+
+**Illustrator** — создание простых иллюстраций (примеры — на этой странице), оптимизация уже готовых SVG
+
+## Образование
+
+Мои навыки отражены в моих работах, но возможно, вам важно знать откуда я черпал свои знания
+
+**HTML Academy:** 
+
+[HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/qostua/device) (2021)
+
+[HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/qostua/cat-energy) (2021)
+
+[JavaScript. Профессиональная разработка веб-интерфейсов](https://htmlacademy.ru/intensive/javascript) (2021)
+
+## <a name="portfolio">Портфолио целиком</a>
 
 Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
 
