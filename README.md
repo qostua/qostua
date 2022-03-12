@@ -20,9 +20,9 @@
 
 ## Лучшие работы
 
-Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
-
 Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
+
+Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
 
 MNTN — одностроничный лендинг о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
