@@ -16,7 +16,7 @@
 
 **frameworks**: `Bootstrap`
 
-<a href="#stek">Подробнее</a> про стек технологий
+⬇️ <a href="#stek">Подробнее</a> про стек технологий
 
 ## Лучшие работы
 
@@ -28,7 +28,7 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 
 MNTN — одностроничный лендинг о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
-Портфолио <a href="#portfolio">целиком</a>
+⬇️ Портфолио <a href="#portfolio">целиком</a>
 
 ## <a name="stek">Подробнее про стек технологий</a>
 
