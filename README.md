@@ -20,6 +20,8 @@
 
 ## Лучшие работы
 
+Keksobooking — сервис размещения объявлений о сдаче в аренду недвижимости. [Сайт](https://qostua.github.io/keksobooking/) | [Репозиторий](https://github.com/qostua/keksobooking)
+
 Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
 
 Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
@@ -76,12 +78,12 @@ MNTN — одностроничный лендинг о путешествиях
 
 ## <a name="portfolio">Портфолио целиком</a>
 
-Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
+Keksobooking — сервис размещения объявлений о сдаче в аренду недвижимости. [Сайт](https://qostua.github.io/keksobooking/) | [Репозиторий](https://github.com/qostua/keksobooking)
 
 Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
+
+Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
 
 MNTN — блог о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
 
 amid. — компания бизнес-помощник. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
-
-RAVEL — туристическое агенство. [Сайт](https://qostua.github.io/RAVEL/app/) | [Репозиторий](https://github.com/qostua/RAVEL)
