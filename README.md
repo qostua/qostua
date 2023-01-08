@@ -2,21 +2,19 @@
 
 ## Стек технологий
 
-**`HTML5`**, `ARIA`, `Retina`, `webp`
+**`Architecture, Methodology`**: `MVP`, `OOP`, `SPA`, `REST API`
 
-**`CSS3`**, `Flex`, `Grid`, `Adaptive`, `BEM`, `Sass`, `Less`
+**`JavaScript`**: `ES5`, `DOM`, `webpack`, `Gulp`, `Service Worker`, `Promise`, `Fetch API`
 
-**`SVG`**, `SVG animation`
+**`CSS3`**: `Flex`, `Grid`, `Adaptive`, `BEM`, `Sass`, `Less`
 
-**`JavaScript`**, `ES5`**,** `DOM`, `Gulp`
+**`HTML5`**: `ARIA`, `Retina`, `webp`
 
-**other**: `Git`, `Accessibility`
+**`SVG`**: `SVG animation`
+
+**other**: `Git`, `Accessibility`, `Offline`
 
 **programs**: `Figma`, `Photoshop`, `Illustrator`
-
-**frameworks**: `Bootstrap`
-
-⬇️ <a href="#stek">Подробнее</a> про стек технологий
 
 ## Лучшие работы
 
@@ -75,6 +73,8 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 [HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/qostua/cat-energy) (2021)
 
 [JavaScript. Профессиональная разработка веб-интерфейсов](https://htmlacademy.ru/intensive/javascript) (2021)
+
+[JavaScript. Архитектура клиентских приложений](https://htmlacademy.ru/intensive/ecmascript) (2021)
 
 ## <a name="portfolio">Портфолио целиком</a>
 
