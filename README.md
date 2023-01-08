@@ -78,6 +78,8 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 
 ## <a name="portfolio">Портфолио целиком</a>
 
+Big Trip — SPA-приложение для планирования маршрута путешествия. [Сайт](https://qostua.github.io/big-trip/public/index.html) | [Репозиторий](https://github.com/qostua/big-trip)
+
 Keksobooking — сервис размещения объявлений о сдаче в аренду недвижимости. [Сайт](https://qostua.github.io/keksobooking/) | [Репозиторий](https://github.com/qostua/keksobooking)
 
 Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
