@@ -16,17 +16,11 @@
 
 **programs**: `Figma`, `Photoshop`, `Illustrator`
 
-## Лучшие работы
+## Последние личные работы
 
-Big Trip — SPA-приложение для планирования маршрута путешествия. [Сайт](https://qostua.github.io/big-trip/public/index.html) | [Репозиторий](https://github.com/qostua/big-trip)
+Тестовое задание «Gооd Аnd Fооd» – сервис доставки еды. [Сайт](https://qostua.github.io/good-and-food/public/index.html) | [Репозиторий](https://github.com/qostua/good-and-food)
 
-Keksobooking — сервис объявлений о сдаче в аренду недвижимости. [Сайт](https://qostua.github.io/keksobooking/) | [Репозиторий](https://github.com/qostua/keksobooking)
-
-Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
-
-Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
-
-⬇️ <a href="#portfolio">Больше</a> работ
+Тестовое задание «Tzeezotje» – сайт ресторана. [Сайт](https://qostua.github.io/tzeezotje/public/) | [Репозиторий](https://github.com/qostua/tzeezotje)
 
 ## <a name="stek">Подробнее про стек технологий</a>
 
@@ -61,31 +55,3 @@ Device — интернет-магазин гаджетов. [Сайт](https://
 **Figma**, **Photoshop** — экспорт графики и параметров. В основном использую Figma.
 
 **Illustrator** — создание простых иллюстраций, оптимизация уже готовых SVG
-
-## Образование
-
-Мои навыки отражены в моих работах, но возможно, вам важно знать откуда я черпал свои знания
-
-**HTML Academy:** 
-
-[HTML и CSS. Профессиональная вёрстка сайтов](https://github.com/qostua/device) (2021)
-
-[HTML и CSS. Адаптивная вёрстка и автоматизация](https://github.com/qostua/cat-energy) (2021)
-
-[JavaScript. Профессиональная разработка веб-интерфейсов](https://htmlacademy.ru/intensive/javascript) (2021)
-
-[JavaScript. Архитектура клиентских приложений](https://htmlacademy.ru/intensive/ecmascript) (2021)
-
-## <a name="portfolio">Портфолио целиком</a>
-
-Big Trip — SPA-приложение для планирования маршрута путешествия. [Сайт](https://qostua.github.io/big-trip/public/index.html) | [Репозиторий](https://github.com/qostua/big-trip)
-
-Keksobooking — сервис размещения объявлений о сдаче в аренду недвижимости. [Сайт](https://qostua.github.io/keksobooking/) | [Репозиторий](https://github.com/qostua/keksobooking)
-
-Сat Energy — магазин питания для котов. [Сайт](https://qostua.github.io/cat-energy/source/) | [Репозиторий](https://github.com/qostua/cat-energy)
-
-Device — интернет-магазин гаджетов. [Сайт](https://qostua.github.io/device/) | [Репозиторий](https://github.com/qostua/device)
-
-MNTN — блог о путешествиях. [Сайт](https://qostua.github.io/mntn/app/) | [Репозиторий](https://github.com/qostua/mntn)
-
-amid. — компания бизнес-помощник. [Сайт](https://qostua.github.io/amid/app/) | [Репозиторий](https://github.com/qostua/amid)
