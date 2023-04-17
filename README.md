@@ -6,13 +6,13 @@
 
 **`JavaScript`**: `ES5`, `DOM`, `webpack`, `Gulp`, `Service Worker`, `Promise`, `Fetch API`
 
-**`CSS3`**: `Flex`, `Grid`, `Adaptive`, `BEM`, `Sass`, `Less`
+**`CSS3`**: `Design Systems`, `Flex`, `Grid`, `Adaptive`, `BEM`, `Sass`, `Less`
 
 **`HTML5`**: `ARIA`, `Retina`, `webp`
 
 **`SVG`**: `SVG animation`
 
-**other**: `Git`, `Accessibility`, `Offline`
+**other**: `Git`, `Accessibility`, `Offline`, `PHP`
 
 **programs**: `Figma`, `Photoshop`, `Illustrator`
 
